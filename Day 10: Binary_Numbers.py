@@ -26,7 +26,7 @@ def binary(n):
     
     #print(x)#Number in binary in list form
     print(k)
-        
+      
 
 if __name__ == '__main__':
     n = int(input())
